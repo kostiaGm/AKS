@@ -1,0 +1,13 @@
+{
+    "name": "kot/aks",
+    "description": "Symfony somple bundles",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Anisimov",
+            "email": "kostiaGm@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
